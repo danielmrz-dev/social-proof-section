@@ -14,7 +14,7 @@ body {
 @media (min-width: 1000px) {
   body {
     background: url("images/bg-pattern-top-desktop.svg") no-repeat, url("images/bg-pattern-bottom-desktop.svg") no-repeat;
-    background-position: -10vh -30vw, 30vh -10vw;
+    background-position: -10vh -30vw, 30vh 0vw;
     background-size: cover;
     height: 100vh;
     justify-content: center;
